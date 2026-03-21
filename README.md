@@ -121,8 +121,4 @@ The model generates several visualizations:
 - [ ] Real-time prediction
 - [ ] Web interface
 
-## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/load-forecasting-cnn-lstm](https://github.com/YOUR_USERNAME/load-forecasting-cnn-lstm)
